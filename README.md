@@ -3,6 +3,9 @@ This is Firefox UserScript.
 Helper download movie in http://asg.to
 
 # Change Log
+## version 1.5.0
+- 動画タイトルから「 - アダルト動画 裏アゲサゲ−無料アダルト動画−」を削除する修正を追加 
+
 ## version 1.4.0
 - AutoPagerに対応
 
